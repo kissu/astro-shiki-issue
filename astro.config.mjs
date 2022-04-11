@@ -6,8 +6,6 @@ export default defineConfig({
       {
         shikiConfig: {
           theme: 'monokai',
-          langs: ['html', 'vue', 'astro', 'md'],
-          wrap: true,
         },
       },
     ],
